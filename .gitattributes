@@ -1,16 +1,10 @@
-*.html linguist-vendored
+"Asenkron Proje 1 - Yandex API/app.js"   linguist-vendored=true
+"Asenkron Proje 1 - Yandex API/ui.js"   linguist-vendored=true
+"Asenkron Proje 2 - Exchange API/app.js" linguist-vendored=true
+"Asenkron Proje 2 - Exchange API/ui.js" linguist-vendored=true
+"Asenkron Proje 3 - Github API/app.js" linguist-vendored=true
+"Asenkron Proje 3 - Github API/ui.js" linguist-vendored=true
+"Asenkron Proje 3 - Github API/storage.js" linguist-vendored=true
 
-# .gitattributes
 
-# Derleme çıktıları / paketler
-dist/** linguist-generated
-build/** linguist-generated
-**/*.map linguist-generated
-**/*.min.js linguist-vendored
 
-# wwwroot içindeki 3rd-party varlıklar (Bootstrap, jQuery, vs.)
-wwwroot/lib/** linguist-vendored
-wwwroot/**/vendor/** linguist-vendored
-
-# Dökümantasyon / örnekler (isteğe bağlı)
-docs/** linguist-documentation
